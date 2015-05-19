@@ -8,9 +8,9 @@ Imagine that you are taking part in the investigation of a criminal organization
 
 For example, you can put pieces together and get the original text:
 
-evil pl
- vil pla
-  il plan
+'''evil pl
+''' vil pla
+'''  il plan
 
 The answer is ‘evil plan’.
 
@@ -38,9 +38,9 @@ The evil-evil plan to hack CodeEval ranking.
 
 For the text with the length t shredded into pieces with the length n, there are t - (n - 1) pieces of text in the input file. Each piece of text is shifted by one character. For example, the word ‘secret’ and n = 4:
 
-secr
- ecre
-  cret
+'''secr
+''' ecre
+'''  cret
 
 * There is only one correct answer for each test case.
 * The minimum number of pieces is 125, the maximum number is 975.
